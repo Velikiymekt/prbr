@@ -1,0 +1,17 @@
+print("Programming***Essentials***in...Python")
+print("    *    ")
+print("   * *   ")
+print("  *   *  ")
+print(" *     * ")
+print("***   ***")
+print("  *   *  ")
+print("  *   *  ")
+print("  *****  ")
+print("I`m student")
+print("I`m\nlearning\nPython")
+octal_number = '500'
+decimal_number = int(octal_number, 8)
+print(decimal_number)
+hex_number = '777'
+decimal_number = int(hex_number, 16)
+print(decimal_number)
